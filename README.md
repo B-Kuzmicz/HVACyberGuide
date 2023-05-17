@@ -1,5 +1,4 @@
 # HVACyberGuide
-That sounds like a great project! Here are some features you might want to consider for your AI-powered app:
 
 1. **Search Functionality**: The AI should be able to search through the PDF documents to find specific information. This could be based on keywords or phrases. For example, if a user asks about the function of a condenser in an HVAC system, the AI should be able to find and present the relevant information from the PDFs.
 
