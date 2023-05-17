@@ -23,7 +23,7 @@ That sounds like a great project! Here are some features you might want to consi
 
 Remember, the goal of your app should be to make it easier for users to find and understand the information they need. Good luck with your project!
 
-Absolutely, here are a few suggestions:
+**App name suggestions:**
 
 1. HVAC Helper
 2. HVAC Genius
@@ -54,7 +54,7 @@ Lastly, you might want to consider how the name translates into other languages,
 
 Once you've narrowed down your options, you might want to test the names with a small group of potential users to get their feedback. This can help you understand how your target audience perceives the name and whether it resonates with them.
 
-Of course, here are some suggestions that imply the use of AI:
+**Name suggestions that imply the use of AI:**
 
 1. AIirComfort
 2. IntelliHVAC
